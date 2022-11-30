@@ -1,8 +1,8 @@
 ### hey there 
-<a href="https://twitter.com/jiashenggu、">
+<a href="https://twitter.com/jiashenggu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jiashenggu/">
+<a href="https://www.linkedin.com/in/jiasheng-gu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
