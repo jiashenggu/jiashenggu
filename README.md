@@ -1,4 +1,4 @@
-### hey there 
+### Hey there 
 <a href="https://twitter.com/jiashenggu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -10,9 +10,9 @@
 
 <br />
 
-hi, i'm [Jiasheng Gu](https://jiashenggu.github.io/), a master student in Machine Learning and Data Science at University of Southern California. 
+Hi, i'm [Jiasheng Gu](https://jiashenggu.github.io/), a Master student in Machine Learning and Data Science at University of Southern California. 
 
-I am interested in natural language processing, machine learning, and artificial intelligence, with a particular interest in text generation, trustworthy AI models, and few-shot NLP.
+I am interested in natural language processing and generation, machine learning, and reliable interconversion between natural language and different forms of data.
 
 
 **languages and tools:**  
