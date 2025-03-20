@@ -1,9 +1,9 @@
 ### Hey there 
 <a href="https://twitter.com/jiashenggu">
-  <img align="left" alt="Jiasheng Gu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Jiasheng Gu | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" />
 </a>
 <a href="https://www.linkedin.com/in/jiasheng-gu/">
-  <img align="left" alt="Jiasheng Gu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jiasheng Gu's Linkedin" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jiashenggu.jiashenggu)
