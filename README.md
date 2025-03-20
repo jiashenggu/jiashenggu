@@ -10,9 +10,9 @@
 
 <br />
 
-Hi, I'm [Jiasheng Gu](https://jiashenggu.github.io/), a Master student in Machine Learning and Data Science at University of Southern California. 
+Hi, I'm [Jiasheng Gu](https://jiashenggu.github.io/), a algorithm engineer in Alibaba. 
 
-I am interested in natural language processing and generation, machine learning, and reliable interconversion between natural language and different forms of data.
+I am interested in Large Language Models and Vision-Language Models.
 
 
 **languages and tools:**  
